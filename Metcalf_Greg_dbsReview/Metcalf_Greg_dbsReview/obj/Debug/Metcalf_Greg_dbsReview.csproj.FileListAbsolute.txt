@@ -1,0 +1,9 @@
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\bin\Debug\Metcalf_Greg_dbsReview.exe.config
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\bin\Debug\Metcalf_Greg_dbsReview.exe
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\bin\Debug\Metcalf_Greg_dbsReview.pdb
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\bin\Debug\MySql.Data.dll
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\obj\Debug\Metcalf_Greg_dbsReview.csprojAssemblyReference.cache
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\obj\Debug\Metcalf_Greg_dbsReview.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\obj\Debug\Metcalf_Greg_dbsReview.csproj.CopyComplete
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\obj\Debug\Metcalf_Greg_dbsReview.exe
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_dbsReview\Metcalf_Greg_dbsReview\obj\Debug\Metcalf_Greg_dbsReview.pdb
