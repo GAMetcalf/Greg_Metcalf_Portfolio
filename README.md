@@ -1,59 +1,25 @@
-# Welcome to Project & Portfolio!
+# Project & Portfolio II
 
-This repository will be used to keep track of _Project & Portfolio 1_ research and development conducted during class. Follow the **instructions** below to get started.
+This repository is for Web Development II course projects that contain newly learned JavaScript and HTML skills combined with my Visual Studio works.
 
-## Step 1
+## Current Research for Visual Studio
 
-Review the [About](./docs/01_about/README.md) readme located in your docs folder.
+Right now, the biggest 'need-to-know' topic for me is how to use .Random().  Here is where I have been spending most of my time studying to understand how to use the function: **[MSDN Random Class](https://docs.microsoft.com/en-us/dotnet/api/system.random?view=netframework-4.8)**
 
-## Step 2
+Here is a screenshot of how I've set it up my code to use the class (*HAS NOT BEEN TESTED YET*):
+![RandomSelection](https://drive.google.com/uc?id=16SH8-fLf-v0EZtk4vgkMLBsndAU6l4Yv)
 
-Begin required research for the first milestone "Version Control" (see FSO).
+## JavaScript / HTML Research
 
-## Step 3
+In my research and practice to far, JavaScript has been a lot less complicated than I originally thought it would be.  The only thing that slows me down is getting used using < and > for HTML and remembering that everything needs the closing tag as well.  I have transcribed six Visual Studio programs over to JavaScript that can be found here: **[C# - JavaScript](https://github.com/GAMetcalf/Greg_Metcalf_Portfolio/tree/master/JS%20Projects%201-6)**
 
-Watch the following video: **[Milestone 1 - Version Control](https://www.youtube.com/watch?v=sfYuBjGqHaY&feature=youtu.be)**.
-<br>
+Feel free to check out some of my other completed assignments!<br>
+**[Debugging JavaScript](https://github.com/GAMetcalf/Greg_Metcalf_Portfolio/tree/master/Metcalf_Greg_debug)**
 
-### Next Step
+**[Object Oriented Programming basics](https://github.com/GAMetcalf/Greg_Metcalf_Portfolio/tree/master/Metcalf_Greg_oop)**
 
-After completing the above steps, begin to work on your assignments for the first milestone.
-<br>
-## Completed projects
-#### Frequently refactored for practice
-
-##### Code Exercises for DVP1 solution
-- CE1-Menu
-- CE2-SwapName
-- CE3-Backwards
-- CE4-AgeConvert
-- CE5-TempConvert
-- CE6-BigBlueFish
-- CE7-Refactoring
-
-## Personal Refactoring / Coding Accomplishments
-
-### Through research and practice, I have learned the basics of what refactoring code entails
-
-##### By refactoring, I have learned to:
-
-- Create a single validation class to use for entire projects<br>
-
-![StringValidation](https://drive.google.com/uc?id=1q0u0gY-74Rdkfrl2Mh6_40YOQNQq95Wx)
-
-- Create a user menu to select different programs and exit the program when finished<br>
-
-![UserMenu](https://drive.google.com/uc?id=1DWt6Bf0dtO1rOP_WKel0D5w7f4mmKecp)
-<br>
-### Recently learned code from research and refactoring
-- Data can be declared and defined in the scope of the class allowing it to be called instead of sent from one function to another.
-- Learning how to use DateTime and TimeSpan came in handy when needing to validate a date, and determining how much time has passed from one date to another.
-- For the StringValidation method, I learned that I can pass a string as an argument as long as the method immediately uses the passed string, thus eliminating extra lines from main.
- <br>
-
-### Useful notes and references
-- #### https://drive.google.com/file/d/153ujMnDM2QUhky5xnIsraZ1u24mJ_rqH/view?usp=sharing
+--------------------------
 
 ### Contact information
-Slack and email:  gametcalf@student.fullsail.edu
-<br>LinkedIn:  https://www.linkedin.com/in/gregory-metcalf-5a7b51a3/
+####Slack and email:  gametcalf@student.fullsail.edu
+####LinkedIn:  https://www.linkedin.com/in/gregory-metcalf-5a7b51a3/
