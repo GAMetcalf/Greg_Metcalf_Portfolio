@@ -22,5 +22,5 @@ Feel free to check out some of my other completed assignments!<br>
 --------------------------
 
 ### Contact information
-####Slack and email:  gametcalf@student.fullsail.edu
-####LinkedIn:  https://www.linkedin.com/in/gregory-metcalf-5a7b51a3/
+#### Slack and email:  gametcalf@student.fullsail.edu
+#### LinkedIn:  https://www.linkedin.com/in/gregory-metcalf-5a7b51a3/
