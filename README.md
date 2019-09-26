@@ -6,8 +6,9 @@ This repository is for Web Development II course projects that contain newly lea
 
 Right now, the biggest 'need-to-know' topic for me is how to use .Random().  Here is where I have been spending most of my time studying to understand how to use the function: **[MSDN Random Class](https://docs.microsoft.com/en-us/dotnet/api/system.random?view=netframework-4.8)**
 
-Here is a screenshot of how I've set it up my code to use the class (*HAS NOT BEEN TESTED YET*):
-![RandomSelection](https://drive.google.com/uc?id=16SH8-fLf-v0EZtk4vgkMLBsndAU6l4Yv)
+Here is a screenshot of how I've set it up my code to use the class:
+![RandomSelection](https://drive.google.com/uc?id=1WYwzvlhF8rXF4YvenCc-FK_vVjxnt6lj)
+
 
 ## JavaScript / HTML Research
 
