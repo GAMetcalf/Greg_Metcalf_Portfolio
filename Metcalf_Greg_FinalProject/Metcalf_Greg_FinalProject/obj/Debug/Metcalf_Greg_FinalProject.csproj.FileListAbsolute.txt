@@ -1,0 +1,7 @@
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\bin\Debug\Metcalf_Greg_FinalProject.exe.config
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\bin\Debug\Metcalf_Greg_FinalProject.exe
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\bin\Debug\Metcalf_Greg_FinalProject.pdb
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\obj\Debug\Metcalf_Greg_FinalProject.csprojAssemblyReference.cache
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\obj\Debug\Metcalf_Greg_FinalProject.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\obj\Debug\Metcalf_Greg_FinalProject.exe
+Z:\Documents\Visual Studio 2017\Projects\Metcalf_Greg_FinalProject\Metcalf_Greg_FinalProject\obj\Debug\Metcalf_Greg_FinalProject.pdb
