@@ -132,8 +132,9 @@ alert("Hello!  Thank you for using the random tablature generator.\n\n" +
 //Get the key to play in
 var keyString = prompt("What key would you like to play in? (Ex. C# or Ab)");
 
+keyString = keyString.toLowerCase();
 //Validate for correct input and no null or white space
-while (!notesAndPositions.has(keyString.toLowerCase())){
+while (!notesAndPositions.has(keyString)){
   keyString = prompt("Please don't leave this blank and enter a valid key (Ex. E or Gb)");
 }
 
